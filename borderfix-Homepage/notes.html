@@ -1,0 +1,39 @@
+.video .video-wrapper {
+      width: 500px;
+      margin: 0 auto;
+      text-align: center;
+      border: 8px solid #3f1f24;
+      background: white;
+      border-left: 0;
+      border-right: 0;
+      -webkit-box-shadow: 0 3px 3px rgba(128,128,128,.35);
+    }
+	
+	
+	
+	Issue: border on photosets is the color of the font on the top and bottom, and missing on the sides
+	
+	Solution, replace original CSS:
+	  .video .video-wrapper {
+      width: 500px;
+      margin: 0 auto;
+      text-align: center;
+      border: 8px solid {color:Text};
+      border-left: 0;
+      border-right: 0;
+      -webkit-box-shadow: 0 3px 3px rgba(128,128,128,.35);
+    }
+	
+	with 
+	
+	 .video .video-wrapper {
+      width: 500px;
+      margin: 0 auto;
+      text-align: center;
+      border: 8px solid white;
+      background: white;
+      -webkit-box-shadow: 0 3px 3px rgba(128,128,128,.35);
+    }
+	
+	
+	NOTE: I don't know why they put it under a video class instead of a photoset class but the name doesn't really matter

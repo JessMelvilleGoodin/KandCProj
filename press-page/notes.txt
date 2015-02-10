@@ -1,0 +1,52 @@
+#container {
+width: 1450px;
+margin: 0 auto;
+}
+
+
+
+#martha {
+position: absolute;
+margin-left: 200px;
+margin-top: 20px;
+}
+
+
+ .title h2 {
+	 color: #3f1f24;
+	 line-height: 1;
+      width: 430px;
+      margin: 30px auto 16px;
+      text-align: center;
+      font-family: "LeagueGothicRegular", "HelveticaNeue-CondensedBold", "Franklin Gothic Demi Cond", "Franklin Gothic Medium Cond", "Impact", sans-serif;
+      font-size: 55px;
+    }
+	
+	
+
+.press{ padding: 10px 160px 10px 210px;
+list-style-type: none;}
+
+
+
+.press li{
+font-family: LeagueGothicRegular;
+width: 316px;
+margin: 10px;
+padding: 8px;
+border: #3f1f24 solid 3px;
+font-family: Baskerville, "Times New Roman", Times, serif;
+text-align: center;
+font-size: 16px;
+
+}
+
+.press li strong {
+font-weight:bold;}
+
+.column1of3, .column2of3, .column3of3 {
+float: left;
+}
+
+.press img{ width: 300px;
+}

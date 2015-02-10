@@ -1,0 +1,153 @@
+Tumblr static files:
+
+
+
+CSS
+	960 grid CSS
+	http://static.tumblr.com/ykemwdm/YGundmjk1/960_12_col.css
+
+	960 reset css
+	http://static.tumblr.com/ykemwdm/d7Indmjm1/reset.css
+	
+	old style.css: http://static.tumblr.com/ykemwdm/n5pne1bts/style.css
+	
+	latest style.css: 10/29/2014 10:30pm http://static.tumblr.com/ykemwdm/ACVne8mph/style.css
+	
+	EMF form CSS test-01  http://static.tumblr.com/ykemwdm/vYtnf940x/custom-form-test-01.css
+	
+Fonts
+	AvenirNextCondensed-UltraLight.tff
+	http://static.tumblr.com/ykemwdm/rwYndo79l/avenirnextcondensed-ultralight.ttf
+	
+	http://static.tumblr.com/ykemwdm/rhhndo8ll/avenirnextcondensed-ultralight.eot
+	
+	http://static.tumblr.com/ykemwdm/HNsndo8ox/avenirnextcondensed-ultralight.otf
+	
+	http://static.tumblr.com/ykemwdm/FHundo8r0/avenirnextcondensed-ultralight.woff
+	
+	
+	
+	Webfont kit from MyFonts.com
+	 http://static.tumblr.com/ykemwdm/2qune3034/2c6618_0_0.eot
+	 
+	 http://static.tumblr.com/ykemwdm/HdWne303q/2c6618_0_0.ttf
+	 
+	 http://static.tumblr.com/ykemwdm/Pgmne3046/2c6618_0_0.woff
+	 
+	 https://www.dropbox.com/s/imegl8dkgrpwor6/2C6618_0_0.woff2?dl=0
+	 
+	 http://static.tumblr.com/ykemwdm/tQdne30k6/myfontswebfontskit.css
+	
+	
+	
+	
+Images
+	logo.jpg
+	http://static.tumblr.com/ykemwdm/l3Andmdxu/logo01.jpg
+	
+	http://static.tumblr.com/ykemwdm/3W5nevydc/main-logo-for-web-444444.jpg
+	
+	http://static.tumblr.com/ykemwdm/hZUnfec1h/main-logo-for-web-565656.jpg
+	
+	http://static.tumblr.com/ykemwdm/7pWnfgeil/big-logo-text-lines-565656-taller.jpg
+
+	SB-Lily-Portrait-cropped.jpg
+	http://static.tumblr.com/ykemwdm/ZeSndmf4c/sb-lily-portrait-cropped.jpg
+
+	
+	Lily portrait on hover
+	http://static.tumblr.com/y2msa7t/r8Fnfkbal/sb-lily-portrait-cropped-hover.jpg
+	
+
+	Martha Badge
+	http://static.tumblr.com/ykemwdm/L0Ondmfpy/badge2014_food_finalist.png
+	
+	Header Frame
+	http://static.tumblr.com/ykemwdm/H1sndnpht/top-of-frame.gif
+
+	http://static.tumblr.com/ykemwdm/tNGndnq0a/top-of-frame-left.gif
+	
+	http://static.tumblr.com/ykemwdm/T40ndnq0t/top-of-frame-right.gif
+	
+	
+	cards ad
+	http://static.tumblr.com/y2msa7t/fL2nhb2kb/img_0682.jpg
+	
+	
+	
+	
+	PRESS:
+	Food & Wine
+	http://static.tumblr.com/ykemwdm/6iBnhcwqr/food-_-wine.jpg
+	
+	Real Simple
+	http://static.tumblr.com/ykemwdm/5f1nhcx3p/real-simple.jpg
+	
+	http://static.tumblr.com/ykemwdm/c31nhcx55/food52.png
+
+	
+	http://static.tumblr.com/ykemwdm/1wInhcxc0/darling-magazine.jpg
+	
+	http://static.tumblr.com/ykemwdm/dGKnhcxgm/free-_-native.jpg
+	
+	http://static.tumblr.com/ykemwdm/RHOnhcxk7/saks-fifth-avenue.jpg
+	
+	http://static.tumblr.com/ykemwdm/4bhnhcxqy/tumblr-food.jpg	
+	
+	http://static.tumblr.com/ykemwdm/Fzvnhcy24/how-you-glow.jpg
+
+		http://static.tumblr.com/ykemwdm/lvZnhczkw/skillcrush.jpg
+	
+	http://static.tumblr.com/ykemwdm/AfZnhczu5/mcconnells-ice-creams.jpg
+	
+	http://static.tumblr.com/ykemwdm/FhCnhczxf/vallybrink-road.jpg
+	
+	http://static.tumblr.com/ykemwdm/s0ynhd00h/the-food-journal-singapore.jpg
+	
+	http://static.tumblr.com/ykemwdm/8oYnhe97r/the-everygirl.jpg
+	
+	
+	Footer
+	http://static.tumblr.com/ykemwdm/X82nds1ou/footer-title-tag.jpg
+	
+	http://static.tumblr.com/ykemwdm/0ZNndo9p2/fullfooter.jpg
+	
+	http://static.tumblr.com/ykemwdm/Uw1newanf/footer-logo-for-web-444444.jpg
+
+	http://static.tumblr.com/ykemwdm/rRKnfcsc9/footer-logo-for-web-565656-new-alignment-11-20.jpg
+	
+	http://static.tumblr.com/ykemwdm/3lWnfcsg4/footer-logo-for-web-565656-new-alignment-11-20.jpg
+	
+	http://static.tumblr.com/ykemwdm/UrOnfcsyu/footer-logo-for-web-565656-new-alignment-11-20.jpg
+	
+	http://static.tumblr.com/ykemwdm/3vOnfgdpm/big-footer-logo-text-lines-565656-new-alignment-flat.jpg  <most recent!>
+	
+Social Icons - original
+	facebook
+	http://static.tumblr.com/ykemwdm/AaYndmfrq/facebook_1.png
+	http://static.tumblr.com/ykemwdm/gPenfiyuk/e5-facebook_1.jpg
+	
+	email
+	http://static.tumblr.com/ykemwdm/1zdndmfsu/email.png
+	http://static.tumblr.com/ykemwdm/9Tknfiysl/e5-email.jpg
+	
+	Instagram
+	http://static.tumblr.com/ykemwdm/y0qndmftf/instagram.png
+	http://static.tumblr.com/ykemwdm/ijJnfiyw1/e5-instagram.jpeg
+	
+	Twitter
+	http://static.tumblr.com/ykemwdm/nYQne17pe/twitter_2.png
+	http://static.tumblr.com/ykemwdm/zp7nfiyx7/e5-twitter_2.jpg
+	
+	Pinterest
+	http://static.tumblr.com/ykemwdm/smInf70fh/pinterest.png
+	http://static.tumblr.com/ykemwdm/42hnfixpl/e5-pinterest.jpg
+	
+	YouTube
+	http://static.tumblr.com/ykemwdm/S7bnf70hq/you_tube.png
+	http://static.tumblr.com/ykemwdm/glfnfiyzo/e5-you_tube.jpg
+	
+	
+	
+	
+	

@@ -1,0 +1,93 @@
+1:15-2:20
+1 hour,  5 min
+add Disqus comments back in !
+
+9:45-10:00 (15 mins)
+removed "blog comments powered by Disqus"
+
+
+
+12/28/14
+10:15-11:15
+disqus on only recipe paes and preview pages
+
+11:20-12:25
+press Page
+
+1:15-1:30
+communication
+1:35-2:00
+ad space in sidebar
+
+2:00-2:11
+comments- lowered 100px
+
+2:11-2:34
+comments- blue: NO 
+
+4:50-5:26 36 minutes
+phone call
+
+
+dec 30
+7:00-7:30 am
+press page fixes
+7:35-7:41
+hide sidebar ad space
+
+1:00-1:30
+press page live + copyright added on
+1:30-2:24
+fix social button hover effect in mozilla using: 
+http://www.karlhorky.com/2012/06/cross-browser-image-grayscale-with-css.html
+
+
+1/15/15
+1:20-2:00?
+reblogs and likes
+________________________________________________________________________________________________________
+
+1/16/15
+10:00-10:15, 
+disqus on mobile
+10:40-10:45
+notes count
+
+10:45-11:40admin
+
+11:45-12:15
+notes formatting
+ 
+ 1:00-2:06
+ adding/formatting notes list
+ 
+ 
+ 1/20/15
+ 9:45-11:26
+ How to Add content to the press page document
+ 
+ 1/26/15
+ 9:30-12:15, 1:00-2:35 3hr, 20 mins. 
+ Reformat press page again :P  columns->single flow
+ stupid. 
+ done. ready for mobile. 
+ 
+ 11:15-11:40
+ Press Page get rid of dots in UL
+ change <li> to <li style="list-style-type: none;"> on each item
+ 
+ 1:15-2:30 - 10 mins putting vivi back to nap
+ fixing press page text links :? I Hate Tumblr
+ 
+ 
+ Feb 1
+  1:00-2:45
+  fix all the damn links on press page again! styling and broken links
+  
+  7:00-7:40
+  QA firefox press offset fix, removed UL. fuck you tumblr, UL came back automatically- Double frak. Added padding-left:0px to ul style in main html page
+ 
+ 
+ 
+ 
+ 

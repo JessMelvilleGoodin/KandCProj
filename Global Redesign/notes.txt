@@ -1,0 +1,18 @@
+add:
+
+
+#martha-img {
+width:155px;
+}
+
+
+<div id="martha">
+<a href="http://www.marthastewart.com/americanmade/nominee/95373?=EML_AM_2014_CONFIRMATION">
+<img id="martha-img" src="http://www.marthastewart.com/sites/marthastewart.com/modules/features/mslo_american_made/images/badges/badge2014_food_finalist.png"
+alt="Martha Stewart - American Made 2014 - Finalist Badge" title="Martha Stewart - American Made 2014 - Finalist Badge"  />
+</a>
+</div>
+
+
+
+

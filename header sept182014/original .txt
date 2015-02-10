@@ -1,0 +1,37 @@
+<div id="header">
+<div id="martha">
+<a href="http://www.marthastewart.com/americanmade/nominee/95373?=EML_AM_2014_CONFIRMATION">
+<img id="martha-img" src="http://www.marthastewart.com/sites/marthastewart.com/modules/features/mslo_american_made/images/badges/badge2014_food_finalist.png"
+alt="Martha Stewart - American Made 2014 - Finalist Badge" title="Martha Stewart - American Made 2014 - Finalist Badge"  />
+</a>
+</div>
+			<ul>
+
+				<li><a href="/archive">Archive</a></li>
+
+
+
+				    <li><a href="/recipes">Recipes</a></li>
+
+				    <li><a href="/instagram">K&C on Instagram</a></li>
+
+				    <li><a href="/press">K&C Press</a></li>
+
+				    <li><a href="/about">About</a></li>
+
+
+
+
+			</ul>
+
+			<h1><a href="/">Kale & Caramel</a></h1>
+
+
+			  <p>Food for all five senses.</p>
+
+
+		</div>
+		<hr>
+		<div class="title">
+		<h2>K+C Press</h2>
+		</div>

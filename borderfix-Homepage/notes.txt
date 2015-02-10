@@ -1,0 +1,10 @@
+.video .video-wrapper {
+      width: 500px;
+      margin: 0 auto;
+      text-align: center;
+      border: 8px solid #3f1f24;
+      background: white;
+      border-left: 0;
+      border-right: 0;
+      -webkit-box-shadow: 0 3px 3px rgba(128,128,128,.35);
+    }

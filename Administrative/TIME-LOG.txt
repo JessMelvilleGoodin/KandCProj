@@ -1,0 +1,250 @@
+Time Log
+Kale& Caramel
+
+8:23-9:30 -continue working on Home pg. wireframe
+9:30-10:00 Create list of elements on Home page; Email finished Wireframe and list of elements on the home page
+10:00-11:45 Site map, complete list of K&C pages
+10 minutes Email list of pages
+
+
+
+
+Oct 2
+9:30-11:30
+design:
+fonts
+title&Tag
+Header
+sidebar: portrait
+(11:40-12:00 Vivi crying, diaper & put her back to sleep)
+12:00-12:30
+download and convert Avenir to ttf using online file converter (bookmarked web design Tools>)
+
+Oct 3
+9:25-9:45 
+Email 
+9:45-11:00 
+Find and integrate social icons (as smart objects)
+11-11:20
+badge & Sample content
+
+
+------Weekend-----
+Oct 6
+approx 1.75 hours 9:00-10:45 (late Ru, Disney fast-passes at 11)
+Added all Sidebar contents and footer
+
+Oct 7
+8:30-12:00
+Finished Design minus minor tweaks
+layout
+reviewed Lily's questionaire/wants, and inspo
+date
+damn you, social media icons!! Using Retro by Pink Moustache, I hope. 
+Made all the alternate Layer comps for link hovers
+Playing with design and color 
+
+Monday Oct 13
+phone call 30 mins
+
+Tuesday Oct 14
+phone call follow up 30 mins
+
+
+Thursday Oct 16
+10:00- 11:45
+work on header HTML & CSS, 12 col grid
+
+Friday Oct 17
+9:30-midnight minus 30m*
+figure out uplaoding asset files to Tumblr
+fontface?
+email angela re getting font onto tumblr
+begin building sidebar
+make lily portrait image
+upload social icons: FB, INSTA, & EMAIL
+*11-11:30 Vivi & Tooth brushin'
+
+
+Sat Oct 18
+2:00- 4:30
+vert line pixel img
+hairlines
+frame
+9:00-
+email
+Avenir 9:30-10:30
+10:30-11:50 layout in HTML/CSS
+
+Monday Oct 20
+9-10:00 
+Font and emails
+10-12
+layout (top lines fixed using z-position, yay!
+
+thursday
+work on layout- finally get crossing line border working
+
+friday
+VIVI WON'T SLEEP-no work completed
+
+sat
+9:30-9:45 txting with Lily
+9:45-10:30- integrating to tumblr, continue formating/development
+10:30-10:45- Redesign- add twitter back in
+10:45  - 11:45: social icons formatting- footer complete, sidebar can't center grrrr 
+
+10m remove instagram from header (design+dev)
+11:45 update fake tumblr- working!
+11:59- personal
+
+sunday october 26
+9:15 
+work on font, starting with lily's order with myfont.com 
+
+Wednesday October 29
+9:45-10:45 
+font fix via MyFonts support email
+integrate font into html
+test on tumblr
+email lily
+10:45-11:45
+photoshop design doc
+email lily design questions
+Baskerville font search
+midnight or 1:30?
+
+
+10/20
+3:05-3:35
+psd doc revisions- bask font, tag/title, header links
+9:30-10:20 psd revisions text and layout
+
+
+
+wednesday 11/5/14
+8:15-10:15 
+email and psd revisions
+10:15-10:30
+internet issues
+10:30-12:00
+tumblr, html/css revisions
+12:15-12:45
+psd revisions, figuring out sidebar/post-title font differences
+
+
+11/11
+3:30-5:30
+photoshop for logo and footer logo,
+ Site build cont
+
+11/12
+redesign 9:30-10:20
+10:20-10:30
+trying to pull up previous and next post headings by adding to pseudo blog. 
+
+
+Thursday 11/13
+Older/Newer button placement 10 m 
+Photosets Photosets
+
+Friday 11/14
+build
+
+Monday 11/17
+10:20-11:00
+email, added missing links
+11:00- 11:50
+redesign social buttons 
+11:57-12:00
+upload pinterest and youtube img s
+12:00-12:07 
+search bar research
+12:07-12:10 
+break
+12:10-12:30
+search bar research
+12:30-12:40 
+Ru Lunch
+12:40-1:00
+search bar research
+1:00 - 1:30
+adding and formatting second row of buttons
+
+3:25- 3:40
+research search engine
+
+Tuesday 11/18
+9:45-10:00
+search engine
+10:00-10:40
+centering the dang social buttons!
+10:40-11:30
+email button/ contact form 
+11:30-12:00
+research maintinece mode
+12-1:00
+custom email form
+2:40-3:10
+work on customizing email form css
+
+Friday
+10:30-1:00
+work wile babysitter is here
+- finish off list
+
+4:00-6:00
+Safari fix @ Mellie's 
+
+evening 
+Safari footer line fix on text w/Lily
+
+
+
+
+
+
+Satursday 11/22
+
+11:45-2:00 Hangout w/Lily
+redesigning title/tag and nav vertical height,11:45-11:53
+ecrease margin on left for body/nav/title 11:54- 
+margin symmetry
+p
+
+
+Sunday 11/23
+2:30-3:00 (2:26-36 minutes)
+phone call, discuss margins, hover effects
+
+9:22 get on tet w lily
+redesigning color underline in nav, adding color to social buttons
+color tests of 6 colors
+
+10:30-11:10
+socil buttons color hover
+
+11:10-11:40 BABY CRYING ROCKING
+
+11:30-12:09
+Update redesign on press page
+
+12:09-1:20
+add link to footer
+adjust subscribe box and martha and button spacing vertcally nudge nudge
+fix pinterest links
+
+
+1:20
+launch!
+
+3:45-4:30
+"Meet lily" hover, css and new image in photoshop, live
+
+
+
+
+
+
+
+

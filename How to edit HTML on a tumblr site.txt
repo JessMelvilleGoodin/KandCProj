@@ -1,0 +1,23 @@
+Awwww snap! Sorry for the deluge of emails. I think I figured it out, though!!
+Here’s what I *think* I should do to get that HTML up onto her site:
+
+
+Log in using the credentials she provided me
+
+Click on the “Settings” gear
+
+Website theme: Edit Theme
+
+scroll down on the options menu on the left and select the press page (or create a page for it, but that would be more complicated with linking , etc)
+
+Choose “Custom Layout” from the dropdown menu on the left
+
+paste the HTML (including the styles) into the text field
+
+hit save! 
+
+Voila! I think that’s it 😊
+
+
+
+DO NOT JUST PASTE YOUR  HTML INTO THE THEME BECAUSE IT WILL MAKE EVERY PAGE THE SAME CONENT!!! 

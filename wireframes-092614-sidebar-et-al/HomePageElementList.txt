@@ -1,0 +1,91 @@
+
+
+Home page Elements:
+* indicates hyperlink
+
+HTML>BODY (background, width/grid)>
+
+Header: 
+	-Header Container
+		--Title* To Homepage
+		-- Tagline
+		-- Links: 
+			---Recipes*
+			--- About*
+			---Press*
+			---Instagram*
+			---Shop*
+
+Sidebar:
+	- Sidebar container
+		--Lily Portrait* To "About" page
+			---"Meet Lily" text
+			---Styling/border
+		--Social Buttons container
+			--- Facebook Button*
+			--- Instagram Button*
+			--- Twitter Button*
+		-- E-mail Ask container 
+			---Text
+			---"e-mail" field
+			---"Submit" button* JAAVASCRIPT??
+			
+		-- Martha Stewart Badge* 
+		-- Recipes by Season
+			--- Spring*
+			---Summer*
+			---Fall*
+			---Winter*
+		-- Recipes by Meal (Category?)
+			--- Breakfast & Brunch*
+			--- Lunch & Dinner*
+			--- Snacks*
+			--- Food. Fast.*
+			--- But I’m Cleansing!*
+
+		-- Five Senses Store*
+			--- Herbs*
+			--- Spices*
+			--- Flowers*
+
+		-- Provisions Food52 ad*
+
+
+		-- Press* To the New and fabulous Press page ;)
+
+
+		-- Instagram*
+
+		-- Archive* To Tumblr Archive
+			
+			
+			
+Body:
+	- Blog Post Container
+		-- Post Date?? (or will that be included in the blurb?
+		-- Post photo or Photoset
+		-- post Blurb
+		-- Recipe link*  OR WILL THE ENTIRE POST BE A LINK?
+		-- COMMENTS?????
+
+
+Footer:
+	- Footer Container
+		-- visual line element
+		-- ANY OTHER ELEMENTS?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

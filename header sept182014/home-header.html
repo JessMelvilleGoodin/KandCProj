@@ -1,0 +1,32 @@
+<div id="header">
+
+<div id="martha">
+<a href="http://www.marthastewart.com/americanmade/nominee/95373?=EML_AM_2014_CONFIRMATION">
+<img id="martha-img" src="http://www.marthastewart.com/sites/marthastewart.com/modules/features/mslo_american_made/images/badges/badge2014_food_finalist.png"
+alt="Martha Stewart - American Made 2014 - Finalist Badge" title="Martha Stewart - American Made 2014 - Finalist Badge"  />
+</a>
+</div>
+			
+			<ul>
+				{block:IfShowRSSLink}<li><a href="{RSS}">{lang:RSS}</a></li>{/block:IfShowRSSLink}
+				{block:IfShowArchiveLink}<li><a href="/archive">{lang:Archive}</a></li>{/block:IfShowArchiveLink}
+				{block:IfShowLikesLink}<li><a href="http://www.tumblr.com/liked/by/{Name}">{lang:Likes}</a></li>{/block:IfShowLikesLink}
+				{block:HasPages} 
+				  {block:Pages}
+				    <li><a href="{URL}">{Label}</a></li>
+				  {/block:Pages}
+				{/block:HasPages}
+				{block:AskEnabled}<li><a href="/ask">{AskLabel}</a></li>{/block:AskEnabled}
+                {block:SubmissionsEnabled}<li><a href="/submit">{SubmitLabel}</a></li>{/block:SubmissionsEnabled} 
+			</ul>
+			 
+			<h1><a href="/">{Title}</a></h1>
+			
+			{block:Description}
+			  <p>{Description}</p>
+			{/block:Description}
+				
+		</div>
+		
+		
+		<li><a href="/fivesensesstore">Five Senses Store</a></li>
